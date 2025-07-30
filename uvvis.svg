@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN" "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1913" x="5" y="5" height="955" id="C:/G09W/Final/uvvis" >
+ <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <rect width="1908" x="5" y="5" height="18" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <text x="959" y="24" style="fill:rgb(0,0,0);stroke-width:0;font-size:14;font-style:normal;font-weight:700;font-family:MS Shell Dlg;" text-anchor="middle" >UV-VIS Spectrum</text>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <rect width="896" x="435" y="-2" height="50" transform="matrix(6.12323e-17,-1,1,6.12323e-17,7,1356)" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+   </g>
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="883" y="16" transform="matrix(6.12323e-17,-1,1,6.12323e-17,7,1356)" style="fill:rgb(0,0,0);stroke-width:0;font-size:12;font-style:normal;font-weight:700;font-family:MS Shell Dlg;" text-anchor="middle" >Epsilon</text>
+   </g>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="916" y2="916" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-19" y="-434" transform="translate(59,1354)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="806" y2="806" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-12" y="-382" transform="translate(38,1191)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >5000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="695" y2="695" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-330" transform="translate(31,1028)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >10000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="584" y2="584" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-277" transform="translate(31,865)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >15000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="473" y2="473" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-225" transform="translate(31,702)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >20000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="362" y2="362" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-173" transform="translate(31,538)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >25000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="251" y2="251" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-120" transform="translate(31,375)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >30000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="141" y2="141" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-68" transform="translate(31,212)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >35000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="30" y2="30" x1="53" x2="48" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-10" y="-16" transform="translate(31,49)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >40000</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="30" y2="916" x1="53" x2="53" />
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <rect width="896" x="-12" y="903" height="43" transform="matrix(6.12323e-17,1,-1,6.12323e-17,2815,38)" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+   </g>
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="436" y="921" transform="matrix(6.12323e-17,1,-1,6.12323e-17,2815,38)" style="fill:rgb(0,0,0);stroke-width:0;font-size:12;font-style:normal;font-weight:700;font-family:MS Shell Dlg;" text-anchor="middle" >Oscillator Strength</text>
+   </g>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="916" y2="916" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-434" transform="translate(2767,1354)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.00</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="790" y2="790" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-375" transform="translate(2767,1168)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.10</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="663" y2="663" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-315" transform="translate(2767,981)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.20</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="537" y2="537" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-255" transform="translate(2767,795)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.30</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="410" y2="410" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-195" transform="translate(2767,608)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.40</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="283" y2="283" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-135" transform="translate(2767,422)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.50</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="156" y2="156" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-75" transform="translate(2767,235)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.60</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="30" y2="30" x1="1871" x2="1877" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-888" y="-16" transform="translate(2767,49)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >0.70</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="853" y2="853" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="726" y2="726" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="600" y2="600" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="473" y2="473" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="346" y2="346" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="220" y2="220" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="93" y2="93" x1="1871" x2="1875" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="30" y2="916" x1="1871" x2="1871" />
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <rect width="1822" x="-24" y="-435" height="35" transform="translate(75,1355)" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+   </g>
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="887" y="-401" transform="translate(75,1355)" style="fill:rgb(0,0,0);stroke-width:0;font-size:12;font-style:normal;font-weight:700;font-family:MS Shell Dlg;" text-anchor="middle" >Excitation Energy (nm)</text>
+   </g>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="58" x2="58" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-24" y="-443" transform="translate(75,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >400</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="316" x2="316" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-146" y="-443" transform="translate(455,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >350</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="575" x2="575" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-268" y="-443" transform="translate(836,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >300</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="833" x2="833" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-390" y="-443" transform="translate(1216,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >250</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="1092" x2="1092" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-512" y="-443" transform="translate(1597,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >200</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="1350" x2="1350" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-634" y="-443" transform="translate(1977,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >150</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="1608" x2="1608" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-756" y="-443" transform="translate(2358,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >100</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="927" x1="1867" x2="1867" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-880" y="-443" transform="translate(2742,1380)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:MS Shell Dlg;" >50</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="109" x2="109" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="161" x2="161" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="213" x2="213" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="264" x2="264" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="368" x2="368" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="420" x2="420" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="471" x2="471" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="523" x2="523" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="626" x2="626" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="678" x2="678" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="730" x2="730" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="781" x2="781" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="884" x2="884" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="936" x2="936" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="988" x2="988" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1040" x2="1040" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1143" x2="1143" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1195" x2="1195" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1246" x2="1246" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1298" x2="1298" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1401" x2="1401" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1453" x2="1453" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1505" x2="1505" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1556" x2="1556" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1660" x2="1660" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1712" x2="1712" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1763" x2="1763" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="924" x1="1815" x2="1815" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="922" y2="922" x1="58" x2="1867" />
+  </g>
+  <rect width="1814" x="55" y="26" height="894" style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,245);" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="58" x2="58" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="316" x2="316" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="575" x2="575" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="833" x2="833" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="1092" x2="1092" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="1350" x2="1350" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="1609" x2="1609" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="26" y2="920" x1="1867" x2="1867" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="917" y2="917" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="806" y2="806" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="696" y2="696" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="585" y2="585" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="474" y2="474" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="363" y2="363" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="253" y2="253" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="142" y2="142" x1="55" x2="1869" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" y1="31" y2="31" x1="55" x2="1869" />
+  <g style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" >
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="881" x1="592" x2="592" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="272" x1="601" x2="601" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="917" x1="822" x2="822" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="917" x1="935" x2="935" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="915" x1="959" x2="959" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="272" x1="972" x2="972" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="915" x1="996" x2="996" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="106" x1="1042" x2="1042" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="916" x1="1087" x2="1087" />
+   <line style="stroke:rgb(0,0,255);stroke-width:0.9;fill:none;" y1="917" y2="841" x1="1123" x2="1123" />
+  </g>
+  <g style="stroke:rgb(192,192,192);stroke-width:0.9;stroke-dasharray:3;fill:none;" >
+   <polyline points="91 917 219 911 251 907 283 899 315 886 347 866 363 852 395 816 411 792 427 765 443 734 459 700 475 663 507 584 539 508 555 477 571 453 587 438 603 434 619 442 627 450 643 476 651 492 659 511 675 556 691 605 723 707 739 754 755 794 771 826 779 839 787 849 803 861 819 862 827 858 843 840 851 826 859 808 867 786 875 760 883 729 891 695 899 656 915 566 931 464 947 356 963 251 971 204 979 160 987 124 995 94 999 82 1007 66 1015 60 1019 61 1023 65 1031 81 1039 109 1047 147 1055 196 1063 253 1071 317 1087 454 1103 586 1111 645 1119 697 1127 742 1135 780 1143 811 1151 836 1159 856 1167 872 1183 894 1199 906 1215 913 1247 917 1624 917" style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" />
+  </g>
+ </g>
+</svg>
